@@ -11,6 +11,7 @@
     - [DELETE inject node as follows](#delete-inject-node-as-follows)
     - [DROP inject node](#drop-inject-node)
   - [Visualizing Data from SQLite in Node-RED Dashboard](#visualizing-data-from-sqlite-in-node-red-dashboard)
+  - [Database Administration](#database-administration)
   - [Flow Export](#flow-export)
 
 <!-- /TOC -->
@@ -142,6 +143,19 @@ This code simply a table in HTML, and places the index, currenttime, temperature
 
 
 ![SQLite](./nodered_10.png)
+
+
+## Database Administration
+
+For the basic database administrative activities you can use web (php) based tools like __phpLiteAdmin__ or go with an installable tool like [SQLiteBrowser](https://github.com/sqlitebrowser/sqlitebrowser):
+
+
+![SQLite](./nodered_11.png)
+
+
+![SQLite](./nodered_12.png)
+
+
 
 
 ## Flow Export
